@@ -1,2 +1,3 @@
-git add file test
-Chang the text first.
+git change file test
+Chang the txt second line.
+This is a test
