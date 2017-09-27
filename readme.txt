@@ -1,6 +1,6 @@
 git change file test
 Chang the txt second line.
-This is test
+This is good test
 123
 
 Branch test
