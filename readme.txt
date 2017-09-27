@@ -6,3 +6,5 @@ This is a test
 Branch test
 
 No fast forward
+
+Stash test
