@@ -4,3 +4,5 @@ This is a test
 123
 
 Branch test
+
+No fast forward
